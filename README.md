@@ -44,12 +44,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-macOS/Linux:
-
-```bash
-python -m venv venv
-source venv/bin/activate
-```
 
 ### 3. Install dependencies
 
@@ -141,4 +135,5 @@ The API was tested using Postman, including authentication, event creation, even
 
 Aspiring Backend Developer | Python & Django REST Framework
 
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+GitHub:[[https://github.com/hermelamesfin67-ops/](codealpha-backend-intrnship1.git)]
+
